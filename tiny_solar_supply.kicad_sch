@@ -3416,7 +3416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ASPI-0630LR-100M-T15:IND_ASPI-0630LR_ABR"
+		(property "Footprint" "ASPI-0630LR-100M-T15:IND_ASPI-0630LR_ABR-M"
 			(at 109.22 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3443,6 +3443,16 @@
 		(property "Description" ""
 			(at 109.22 71.12 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 109.22 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
